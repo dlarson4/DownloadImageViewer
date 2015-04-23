@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DownloadImageViewer</string>
+    <string name="download_image_activity">DownLoadImageActivity</string>
+    <string name="filter_image_activity">FilterImageActivity</string>
+    <string name="download_image">Download Image</string>
+    <string name="defaultURL">http://www.dre.vanderbilt.edu/~schmidt/robot.png</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="downloading">Downloading...</string>
+    <string name="filtering">Filtering...</string>
+</resources>
